@@ -97,16 +97,16 @@ if(response.error != null) {
   "data": {
     "count": 10,
     "suggestions": [
-      "acetarysean",
-      "straitwaistcoatsean",
-      "seaneardrop",
-      "archaeansean",
-      "gasolenesean",
-      "agitativesean",
-      "gamestersean",
-      "leeringlysean",
-      "houyhnhnmsean",
-      "seancoequally"
+      "sean",
+      "seancapitulum",
+      "formicasean",
+      "seanspence",
+      "seanfedary",
+      "seanmistime",
+      "direnesssean",
+      "peacemakersean",
+      "camisadosean",
+      "seanhollandaise"
     ],
     "email": "sean@mail.com"
   }
