@@ -70,7 +70,7 @@ Using the API client, you can perform requests to the API.
 ###### Define Query
 
 ```
-var queryOptions = new usernamegeneratorQueryOptions {
+var queryOptions = new UsernameGeneratorQueryOptions {
   count = 10,
   email = "sean@mail.com"
 };
@@ -97,19 +97,20 @@ if(response.error != null) {
   "data": {
     "count": 10,
     "suggestions": [
-      "overcolorsean",
-      "congenialitysean",
-      "haematocrystallinsean",
+      "seancleave",
       "sean",
-      "epidemicallysean",
-      "scrimpingsean",
-      "seanflemish",
-      "fumifugistsean",
-      "adstringentsean",
-      "seanalhenna"
+      "egomismsean",
+      "seanmausoleum",
+      "seanjewel",
+      "seanunregenerate",
+      "seanbrachyural",
+      "millenarismsean",
+      "seanyardstick",
+      "seanlachrymiform"
     ],
     "email": "sean@mail.com"
-  }
+  },
+  "code": 200
 }
 ```
 
