@@ -6,6 +6,6 @@ namespace APIVerve
 {
     public class UsernameGeneratorQueryOptions {
 public string email { get; set; }
-public integer count { get; set; }
+public int count { get; set; }
 }
 }
